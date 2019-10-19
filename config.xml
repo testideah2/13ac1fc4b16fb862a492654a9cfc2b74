@@ -3,7 +3,7 @@
         xmlns:gap   = "http://phonegap.com/ns/1.0"
         id          = "ru.stroyportal.app"
         versionCode = "10"
-        version     = "1.3.0">
+        version     = "1.4.0">
 
     <name>SPClub</name>
 
@@ -39,10 +39,10 @@
         <icon src="res/android/icon/f799acc9bd4cdd6161aa57ea2d5cff3e.png" density="xxhdpi" />
         <icon src="res/android/icon/8469c46d56932f432377b03f2fc9a1e8.png" density="xxxhdpi" />
 
-        <splash src="res/android/screen/f5aa078261ae7495742db936e2a623e2.png" density="port-hdpi"/>
-        <splash src="res/android/screen/304e0f5078e155b3565b8555ee1d123b.png" density="port-ldpi"/>
-        <splash src="res/android/screen/17f7edfc8a8c6131e80e3a8826b84cf2.png" density="port-mdpi"/>
-        <splash src="res/android/screen/48368e249e7baeb9f113dc7fb4b30543.png" density="port-xhdpi"/>
+        <splash src="res/android/screen/12a239bdd5e69c04013729fb598445d9.png" density="port-hdpi"/>
+        <splash src="res/android/screen/40f068e4fd1fe4cfd51631e79f65963a.png" density="port-ldpi"/>
+        <splash src="res/android/screen/4934fd4f15ffa979baf78d2f6138309f.png" density="port-mdpi"/>
+        <splash src="res/android/screen/d1c4eb30383908e6ee4bb2dd2eea38de.png" density="port-xhdpi"/>
     </platform>
 
     <platform name="ios">
